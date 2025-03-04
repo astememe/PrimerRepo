@@ -1,0 +1,3 @@
+nuevonombre = "hola"
+
+print(nuevonombre)
